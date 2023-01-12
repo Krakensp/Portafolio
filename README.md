@@ -1,3 +1,3 @@
-# TinDog
+# 💞 TinDog
 
-It's a bootcamp proyect
+Don let my dog alone 🐶
